@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sanitary Map AI — Local Dev Scaffold
 
 This is a small Vite + React + Tailwind scaffold containing the `App` refactor of the code you provided. It includes a simple `window.storage` fallback that uses `localStorage` so the app will run locally in the browser without additional backend.
@@ -46,3 +47,6 @@ Next steps (optional)
 - Improve map markers (the current iframe is a simple view embed).
 
 If you want, I can run a local dev server next (installing deps and starting), or split `App.jsx` into smaller components. Which would you like me to do next?
+=======
+# sanitorymapai
+>>>>>>> 4575894784607c2546959f3d03997b73e73cb800
